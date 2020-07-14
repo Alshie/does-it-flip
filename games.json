@@ -361,17 +361,6 @@
     "publisher": "Atari"
   },
   {
-    "name": "Mutant Mudds Collection",
-    "collection": false,
-    "additional_info": "Mudd Blocks only",
-    "releaseDate": "14/12/2017",
-    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_MutantMuddsCollection.jpg",
-    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Mutant-Mudds-Collection-1315172.html",
-    "categories": "Adventure, Action, Platformer, Arcade",
-    "players": "1 - 2",
-    "publisher": "Atooi"
-  },
-  {
     "name": "Dig Dug",
     "collection": "Namco Museum for Switch",
     "additional_info": false,
