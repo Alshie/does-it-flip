@@ -1,5 +1,17 @@
 [
   {
+    "name": "Bells & Whistles",
+    "collection": "Arcade Archives",
+    "additional_info": false,
+    "releaseDate": "16/01/2020",
+    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ArcadeArchivesBellsAndWhistles.jpg",
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-Bells-Whistles-1708133.html",
+    "categories": "Shooter, Arcade",
+    "players": "1 - 2",
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Display Direction"
+  },
+  {
     "name": "Horizon Shift '81",
     "collection": false,
     "additional_info": false,
@@ -52,7 +64,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/AngerForce-Reloaded-for-Nintendo-Switch-1549488.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
-    "publisher": "indienova"
+    "publisher": "indienova",
+    "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
   {
     "name": "Argus",
@@ -61,17 +74,6 @@
     "releaseDate": "30/08/2018",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ArcadeArchivesArgus.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-ARGUS-1431769.html",
-    "categories": "Shooter, Arcade",
-    "players": "1 - 2",
-    "publisher": "HAMSTER"
-  },
-  {
-    "name": "Bells & Whistles",
-    "collection": "Arcade Archives",
-    "additional_info": false,
-    "releaseDate": "16/01/2020",
-    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ArcadeArchivesBellsAndWhistles.jpg",
-    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-Bells-Whistles-1708133.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
     "publisher": "HAMSTER"
@@ -129,7 +131,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-DONKEY-KONG-1389973.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
-    "publisher": "HAMSTER"
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
   {
     "name": "Donkey Kong Jr.",
@@ -140,7 +143,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-DONKEY-KONG-JR--1489670.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
-    "publisher": "HAMSTER"
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
   {
     "name": "Donkey Kong 3",
@@ -151,7 +155,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-DONKEY-KONG-3-1542749.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
-    "publisher": "HAMSTER"
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
   {
     "name": "Front Line",
@@ -250,7 +255,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-STAR-FORCE-1344201.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
-    "publisher": "HAMSTER"
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
   {
     "name": "Terra Cresta",
@@ -822,7 +828,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ACA-NEOGEO-AERO-FIGHTERS-3-1349823.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
-    "publisher": "HAMSTER"
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
   {
     "name": "Aero Fighters 2",
@@ -833,7 +840,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ACA-NEOGEO-AERO-FIGHTERS-2-1249888.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
-    "publisher": "HAMSTER"
+    "publisher": "HAMSTER",
+    "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
   {
     "name": "Zaccaria Pinball",
