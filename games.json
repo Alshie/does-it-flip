@@ -819,13 +819,14 @@
   {
     "name": "Vasara Collection",
     "collection": false,
-    "additional_info": false,
+    "additional_info": "Vasara Classics only",
     "releaseDate": "15/08/2019",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_VasaraCollection.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/VASARA-Collection-1613808.html",
     "categories": "Shooter, Action, Arcade",
-    "players": "1 - 4",
-    "publisher": "QUByte Game Studio, LLC"
+    "players": "1 - 2",
+    "publisher": "QUByte Game Studio, LLC",
+    "instructions": "When starting game choose 'Vertical Mode Right"
   },
   {
     "name": "Strikers 1945 Plus",
