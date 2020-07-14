@@ -87,7 +87,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Classics-Anniversary-Collection-1548600.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
-    "publisher": "KONAMI"
+    "publisher": "KONAMI",
+    "instructions": "Launch game. Press '-'. Display Settings > Display Rotate"
   },
   {
     "name": "TwinBee",
@@ -98,7 +99,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Classics-Anniversary-Collection-1548600.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
-    "publisher": "KONAMI"
+    "publisher": "KONAMI",
+    "instructions": "Launch game. Press '-'. Display Settings > Display Rotate"
   },
   {
     "name": "Typhoon",
@@ -109,7 +111,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Classics-Anniversary-Collection-1548600.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
-    "publisher": "KONAMI"
+    "publisher": "KONAMI",
+    "instructions": "Launch game. Press '-'. Display Settings > Display Rotate"
   },
   {
     "name": "Bomb Jack",
@@ -597,7 +600,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Danmaku-Unlimited-3-1348752.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
-    "publisher": "Doragon"
+    "publisher": "Doragon",
+    "instructions": "Main options > Screen Rotation"
   },
   {
     "name": "Downwell",
