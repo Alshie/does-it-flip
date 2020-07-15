@@ -14,13 +14,14 @@
   {
     "name": "Horizon Shift '81",
     "collection": false,
-    "additional_info": false,
+    "additional_info": "Rotates in all four directions",
     "releaseDate": "20/12/2018",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_HorizonShift81.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Horizon-Shift-81-1488223.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
-    "publisher": "Funbox Media"
+    "publisher": "Funbox Media",
+	"instructions": "Settings > Screen Mode"
   },
   {
     "name": "Shmup Collection",
@@ -612,13 +613,14 @@
   {
     "name": "Downwell",
     "collection": false,
-    "additional_info": false,
+    "additional_info": "Supports both FlipGrip (right angle) and inverse (left angle) mode.",
     "releaseDate": "31/01/2019",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Downwell.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Downwell-1503040.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1",
-    "publisher": "Devolver Digital"
+    "publisher": "Devolver Digital",
+	"instructions": "+/- > Options > Display > TATE Mode"
   },
   {
     "name": "SkyScrappers",
@@ -694,13 +696,14 @@
   {
     "name": "Demon\"s Tilt",
     "collection": false,
-    "additional_info": false,
+    "additional_info": "Only supported during gameplay. Supports both FlipGrip and inverted orientation, has option to rotate contols.",
     "releaseDate": "23/12/2019",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Demonstilt.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/DEMON-S-TILT-1695920.html",
     "categories": "Action, Simulation, Arcade",
     "players": "1",
-    "publisher": "FLARB"
+    "publisher": "FLARB",
+	"instructions": "Options > TATE/Vertical Display"
   },
   {
     "name": "Star Wars Pinball",
@@ -733,7 +736,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Pinball-FX3-1316888.html",
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
-    "publisher": "Zen Studios"
+    "publisher": "Zen Studios",
+	"instructions": "Rotate screen button in main menu; or - button anywhere"
   },
   {
     "name": "The Pinball Arcade",
@@ -866,13 +870,14 @@
   {
     "name": "Zaccaria Pinball",
     "collection": false,
-    "additional_info": false,
+    "additional_info": "Supported only during gameplay, w/ bug in Campaign Mode. An patch with the updated UI is in the making.",
     "releaseDate": "23/07/2018",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ZaccariaPinball.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Zaccaria-Pinball-1405593.html",
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
-    "publisher": "Magic Pixel"
+    "publisher": "Magic Pixel",
+	"instructions": "Rotate Screen button in main menu"
   },
   {
     "name": "Sisters Royale: Five Sisters Under Fire",
