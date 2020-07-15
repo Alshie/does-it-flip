@@ -12,7 +12,7 @@
     "instructions": "From the Pause Menu - Display Settings > Display Direction"
   },
   {
-    "name": "Horizon Shift &rsquo;81",
+    "name": "Horizon Shift '81",
     "collection": false,
     "additional_info": "Rotates in all four directions",
     "releaseDate": "20/12/2018",
@@ -21,7 +21,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "1",
     "publisher": "Funbox Media",
-    "instructions": "Settings > Screen Mode"
+	"instructions": "Settings > Screen Mode"
   },
   {
     "name": "Shmup Collection",
@@ -89,7 +89,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
     "publisher": "KONAMI",
-    "instructions": "Launch game. Press - > Display Settings > Display Rotate"
+    "instructions": "Launch game. Press '-'. Display Settings > Display Rotate"
   },
   {
     "name": "TwinBee",
@@ -101,7 +101,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
     "publisher": "KONAMI",
-    "instructions": "Launch game. Press - > Display Settings > Display Rotate"
+    "instructions": "Launch game. Press '-'. Display Settings > Display Rotate"
   },
   {
     "name": "Typhoon",
@@ -113,7 +113,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
     "publisher": "KONAMI",
-    "instructions": "Launch game. Press - > Display Settings > Display Rotate"
+    "instructions": "Launch game. Press '-'. Display Settings > Display Rotate"
   },
   {
     "name": "Bomb Jack",
@@ -588,7 +588,7 @@
     "publisher": "Plug In Digital"
   },
   {
-    "name": "Another Lost Phone: Laura&rsquo;s Story",
+    "name": "Another Lost Phone: Laura\"s Story",
     "collection": false,
     "additional_info": false,
     "releaseDate": "26/04/2018",
@@ -620,7 +620,7 @@
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1",
     "publisher": "Devolver Digital",
-    "instructions": "+/- > Options > Display > TATE Mode"
+	"instructions": "+/- > Options > Display > TATE Mode"
   },
   {
     "name": "SkyScrappers",
@@ -694,7 +694,7 @@
     "instructions": "Main Menu > Help & Options > Settings > Video > Rotate Screen"
   },
   {
-    "name": "Demon&rsquo;s Tilt",
+    "name": "Demon\"s Tilt",
     "collection": false,
     "additional_info": "Only supported during gameplay. Supports both FlipGrip and inverted orientation, has option to rotate contols.",
     "releaseDate": "23/12/2019",
@@ -703,7 +703,7 @@
     "categories": "Action, Simulation, Arcade",
     "players": "1",
     "publisher": "FLARB",
-    "instructions": "Options > TATE/Vertical Display"
+	"instructions": "Options > TATE/Vertical Display"
   },
   {
     "name": "Star Wars Pinball",
@@ -737,7 +737,7 @@
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
     "publisher": "Zen Studios",
-    "instructions": "Rotate screen button in main menu; or - button anywhere"
+	"instructions": "Rotate screen button in main menu; or - button anywhere"
   },
   {
     "name": "The Pinball Arcade",
@@ -809,7 +809,7 @@
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
-    "name": "Switch 'n' Shoot",
+    "name": "Switch \"n\" Shoot",
     "collection": false,
     "additional_info": false,
     "releaseDate": "10/04/2019",
@@ -818,7 +818,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "1",
     "publisher": "Matthew Glanville",
-    "instructions": "Press + to switch orientation"
+    "instructions": "Press '+' to switch orientation"
   },
   {
     "name": "Vasara Collection",
@@ -830,7 +830,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
     "publisher": "QUByte Game Studio, LLC",
-    "instructions": "When starting game choose &lsquo;Vertical Mode Right&rsquo;"
+    "instructions": "When starting game choose 'Vertical Mode Right"
   },
   {
     "name": "Strikers 1945 Plus",
@@ -877,7 +877,7 @@
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
     "publisher": "Magic Pixel",
-    "instructions": "Rotate Screen button in main menu"
+	"instructions": "Rotate Screen button in main menu"
   },
   {
     "name": "Sisters Royale: Five Sisters Under Fire",
