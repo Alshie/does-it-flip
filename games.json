@@ -901,5 +901,17 @@
     "players": "1 - 2",
     "publisher": "DEGICA",
 	"instructions": ""
+  },
+  {
+    "name": "LIGHTNING FIGHTERS",
+    "collection": "Arcade Archives",
+    "additional_info": "",
+    "releaseDate": "20/08/2020",
+    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ArcadeArchivesLightningFighters.jpg",
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-LIGHTNING-FIGHTERS-1829873.html",
+    "categories": "Shooter, Arcade",
+    "players": "1 - 2",
+    "publisher": "HAMSTER",
+	"instructions": ""
   }
 ]
