@@ -891,15 +891,15 @@
     "publisher": "Chorus Worldwide Games"
   },
   {
-    "name": "Crimzon Clover - World EXplosion",
+    "name": "Missile Dancer",
     "collection": false,
-    "additional_info": "",
-    "releaseDate": "29/10/2020",
-    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_CrimzonCloverWorldExplosion.jpg",
-    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Crimzon-Clover-World-EXplosion-1860357.html",
-    "categories": "Shooter",
+    "additional_info": "Japanese eShop exclusive. English is not great. Vertical mode is only the opposite orientation than FlipGrip.",
+    "releaseDate": "25/06/2020",
+    "image": "https://images.nintendolife.com/85f1715983f57/missile-dancer-cover.cover_small.jpg",
+    "url": "https://store-jp.nintendo.com/list/software/70010000031079.html",
+    "categories": "Shooter, Arcade",
     "players": "1 - 2",
-    "publisher": "DEGICA",
+    "publisher": "Terarin Games",
 	"instructions": ""
   }
 ]
