@@ -893,7 +893,6 @@
   {
     "name": "IMAGE FIGHT",
     "collection": "Arcade Archives",
-    "collection": false,
     "additional_info": "",
     "releaseDate": "23/05/2019",
     "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_ArcadeArchivesImageFight.jpg",
@@ -901,7 +900,31 @@
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
     "publisher": "HAMSTER",
-	"instructions": ""
+    "instructions": ""
+  },
+  {
+    "name": "Ghost Blade HD",
+    "collection": false,
+    "additional_info": "",
+    "releaseDate": "24/10/2019",
+    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_GhostBladeHD.jpg",
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Ghost-Blade-HD-1662261.html",
+    "categories": "Shooterm, Action, Arcade",
+    "players": "1 - 2",
+    "publisher": "eastasiasoft",
+	"instructions": "Options > Orientation > TATE"
+  },
+  {
+    "name": "Crimzon Clover - World EXplosion",
+    "collection": false,
+    "additional_info": "",
+    "releaseDate": "29/10/2020",
+    "image": "https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_CrimzonCloverWorldExplosion.jpg",
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Crimzon-Clover-World-EXplosion-1860357.html",
+    "categories": "Shooter",
+    "players": "1 - 2",
+    "publisher": "DEGICA",
+    "instructions": ""
   },
   {
     "name": "Missile Dancer",
@@ -913,7 +936,7 @@
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
     "publisher": "Terarin Games",
-	"instructions": ""
+    "instructions": ""
   },
   {
     "name": "LIGHTNING FIGHTERS",
@@ -925,6 +948,6 @@
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
     "publisher": "HAMSTER",
-	"instructions": ""
+    "instructions": ""
   }
 ]
