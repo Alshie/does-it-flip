@@ -8,6 +8,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-Bells-Whistles-1708133.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Display Direction"
   },
@@ -20,6 +21,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Horizon-Shift-81-1488223.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Funbox Media",
     "instructions": "Settings > Screen Mode"
   },
@@ -32,6 +34,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Shmup-Collection-1762292.html",
     "categories": "Shooter, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Storybird"
   },
   {
@@ -43,6 +46,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-FLAK-ATTACK-1760649.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -54,6 +58,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-ALPHA-MISSION-1462387.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -65,6 +70,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/AngerForce-Reloaded-for-Nintendo-Switch-1549488.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "indienova",
     "instructions": "From the Pause Menu - Screen rotation"
   },
@@ -77,6 +83,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-ARGUS-1431769.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -88,6 +95,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Classics-Anniversary-Collection-1548600.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "KONAMI",
     "instructions": "Launch game. Press - > Display Settings > Display Rotate"
   },
@@ -100,6 +108,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Classics-Anniversary-Collection-1548600.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "KONAMI",
     "instructions": "Launch game. Press - > Display Settings > Display Rotate"
   },
@@ -112,6 +121,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Classics-Anniversary-Collection-1548600.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "KONAMI",
     "instructions": "Launch game. Press - > Display Settings > Display Rotate"
   },
@@ -124,6 +134,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-BOMB-JACK-1502599.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -135,6 +146,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-DONKEY-KONG-1389973.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
@@ -147,6 +159,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-DONKEY-KONG-JR--1489670.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
@@ -159,6 +172,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-DONKEY-KONG-3-1542749.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Display Layout"
   },
@@ -171,6 +185,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-FRONT-LINE-1514028.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -182,6 +197,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-HEROIC-EPISODE-1341296.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -193,6 +209,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Psikyo-Shooting-Stars-Alpha-1701913.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America"
   },
   {
@@ -204,6 +221,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Psikyo-Shooting-Stars-Bravo-1710270.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America"
   },
   {
@@ -215,6 +233,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-MOON-CRESTA-1505620.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Hamster"
   },
   {
@@ -226,6 +245,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-OMEGA-FIGHTER-1406347.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -237,6 +257,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-PUNCH-OUT--1358616.html",
     "categories": "Action, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Hamster"
   },
   {
@@ -248,6 +269,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-ROUTE-16-1475605.html",
     "categories": "Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -259,6 +281,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-STAR-FORCE-1344201.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -271,6 +294,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-TERRA-CRESTA-1374892.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -282,6 +306,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -293,6 +318,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -304,6 +330,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -315,6 +342,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -326,6 +354,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -337,6 +366,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -348,6 +378,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -359,6 +390,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Atari-Flashback-Classics-1499886.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Atari"
   },
   {
@@ -370,6 +402,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/NAMCO-MUSEUM--1216273.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "BANDAI NAMCO Entertainment",
     "instructions": "From Options > Rotate Screen 90&#176;"
   },
@@ -382,6 +415,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/NAMCO-MUSEUM--1216273.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "BANDAI NAMCO Entertainment",
     "instructions": "From Options > Rotate Screen 90&#176;"
   },
@@ -394,6 +428,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/NAMCO-MUSEUM--1216273.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "BANDAI NAMCO Entertainment",
     "instructions": "From Options > Rotate Screen 90&#176;"
   },
@@ -406,6 +441,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/NAMCO-MUSEUM--1216273.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "BANDAI NAMCO Entertainment",
     "instructions": "From Options > Rotate Screen 90&#176;"
   },
@@ -418,6 +454,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/NAMCO-MUSEUM--1216273.html",
     "categories": "Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "BANDAI NAMCO Entertainment",
     "instructions": "From Options > Rotate Screen 90&#176;"
   },
@@ -430,6 +467,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/SEGA-AGES-Gain-Ground-1534855.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 3",
+    "developer": false,
     "publisher": "SEGA"
   },
   {
@@ -441,6 +479,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -453,6 +492,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -465,6 +505,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -477,6 +518,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -489,6 +531,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -501,6 +544,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -513,6 +557,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -525,6 +570,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -537,6 +583,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -549,6 +596,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -561,6 +609,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -573,6 +622,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/SNK-40th-ANNIVERSARY-COLLECTION-1469347.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "NIS America",
     "instructions": "From main options. Display Mode > Portrait"
   },
@@ -585,6 +635,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/A-Normal-Lost-Phone-1341540.html",
     "categories": "Adventure, Puzzle",
     "players": "1",
+    "developer": false,
     "publisher": "Plug In Digital"
   },
   {
@@ -596,6 +647,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Another-Lost-Phone-Laura-s-Story-1365928.html",
     "categories": "Other, Simulation, Puzzle",
     "players": "1",
+    "developer": false,
     "publisher": "Plug In Digital"
   },
   {
@@ -607,6 +659,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Danmaku-Unlimited-3-1348752.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Doragon",
     "instructions": "Main options > Screen Rotation"
   },
@@ -619,6 +672,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Downwell-1503040.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Devolver Digital",
     "instructions": "+/- > Options > Display > TATE Mode"
   },
@@ -631,6 +685,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/SkyScrappers-1455060.html",
     "categories": "Fighting, Action, Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Ant Workshop"
   },
   {
@@ -642,6 +697,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Dragon-Blaze-for-Nintendo-Switch-1363619.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -654,6 +710,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/GUNBARICH-for-Nintendo-Switch--1249755.html",
     "categories": "Shooter, Action, Arcade, Puzzle",
     "players": "1",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -666,6 +723,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/GUNBIRD-for-Nintendo-Switch-1314749.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -678,6 +736,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/GUNBIRD2-for-Nintendo-Switch-1391522.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -690,6 +749,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Ikaruga-1383085.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Nicalis",
     "instructions": "Main Menu > Help & Options > Settings > Video > Rotate Screen"
   },
@@ -702,6 +762,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/DEMON-S-TILT-1695920.html",
     "categories": "Action, Simulation, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "FLARB",
     "instructions": "Options > TATE/Vertical Display"
   },
@@ -714,6 +775,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Star-Wars-Pinball-1602049.html",
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "ZEN Studios Ltd."
   },
   {
@@ -725,6 +787,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Lost-Phone-Stories--1403005.html",
     "categories": "Adventure, Other, Puzzle",
     "players": "1",
+    "developer": false,
     "publisher": "Plug In Digital"
   },
   {
@@ -736,6 +799,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Pinball-FX3-1316888.html",
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Zen Studios",
     "instructions": "Rotate screen button in main menu; or - button anywhere"
   },
@@ -748,6 +812,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/The-Pinball-Arcade-1376513.html",
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "FarSight Studios"
   },
   {
@@ -759,6 +824,7 @@
     "url": "https://ec.nintendo.com/JP/ja/titles/70010000020461",
     "categories": "Shooting, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "M2"
   },
   {
@@ -770,6 +836,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Psyvariar-Delta-1588304.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Dispatch Games LLC"
   },
   {
@@ -781,6 +848,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Samurai-Aces-for-Nintendo-Switch--1339211.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -793,6 +861,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/STRIKERS-1945-II-for-Nintendo-Switch-1332696.html",
     "categories": "Shooter",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -805,6 +874,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/STRIKERS1945-for-Nintendo-Switch-1250173.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Zerodiv",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
@@ -817,6 +887,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Switch-N-Shoot-1534279.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Matthew Glanville",
     "instructions": "Press + to switch orientation"
   },
@@ -829,6 +900,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/VASARA-Collection-1613808.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "QUByte Game Studio, LLC",
     "instructions": "When starting game choose &lsquo;Vertical Mode Right&rsquo;"
   },
@@ -841,6 +913,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ACA-NEOGEO-STRIKERS-1945-PLUS-1457951.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER"
   },
   {
@@ -852,6 +925,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ACA-NEOGEO-AERO-FIGHTERS-3-1349823.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -864,6 +938,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ACA-NEOGEO-AERO-FIGHTERS-2-1249888.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -876,6 +951,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Zaccaria-Pinball-1405593.html",
     "categories": "Simulation, Arcade",
     "players": "1 - 4",
+    "developer": false,
     "publisher": "Magic Pixel",
     "instructions": "Rotate Screen button in main menu"
   },
@@ -888,6 +964,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Sisters-Royale-Five-Sisters-Under-Fire-1701373.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
+    "developer": false,
     "publisher": "Chorus Worldwide Games"
   },
   {
@@ -899,6 +976,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-IMAGE-FIGHT-1563609.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": ""
   },
@@ -911,8 +989,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Ghost-Blade-HD-1662261.html",
     "categories": "Shooterm, Action, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "eastasiasoft",
-	"instructions": "Options > Orientation > TATE"
+    "instructions": "Options > Orientation > TATE"
   },
   {
     "name": "Crimzon Clover - World EXplosion",
@@ -923,6 +1002,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Crimzon-Clover-World-EXplosion-1860357.html",
     "categories": "Shooter",
     "players": "1 - 2",
+    "developer": "Yotsubane",
     "publisher": "DEGICA",
     "instructions": ""
   },
@@ -935,6 +1015,7 @@
     "url": "https://store-jp.nintendo.com/list/software/70010000031079.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "Terarin Games",
     "instructions": ""
   },
@@ -947,6 +1028,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Arcade-Archives-LIGHTNING-FIGHTERS-1829873.html",
     "categories": "Shooter, Arcade",
     "players": "1 - 2",
+    "developer": false,
     "publisher": "HAMSTER",
     "instructions": ""
   }
