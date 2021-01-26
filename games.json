@@ -8,9 +8,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Missile-Dancer-1898640.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1 - 2",
-    "developer": false,
+    "developer": "Terarin Games",
     "publisher": "DICO",
-    "instructions": false
+    "instructions": "Option > Screen > Vertical 2"
   },
   {
     "name": "Game Tengoku CruisinMix Special",
@@ -1031,19 +1031,6 @@
     "developer": "Yotsubane",
     "publisher": "DEGICA",
     "instructions": ""
-  },
-  {
-    "name": "Missile Dancer",
-    "collection": false,
-    "additional_info": "Japanese eShop exclusive. English is not great.",
-    "releaseDate": "25/06/2020",
-    "image": "https://images.nintendolife.com/85f1715983f57/missile-dancer-cover.cover_small.jpg",
-    "url": "https://store-jp.nintendo.com/list/software/70010000031079.html",
-    "categories": "Shooter, Arcade",
-    "players": "1 - 2",
-    "developer": false,
-    "publisher": "Terarin Games",
-    "instructions": "Option > Screen > Vertical 2"
   },
   {
     "name": "LIGHTNING FIGHTERS",
