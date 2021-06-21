@@ -1,5 +1,18 @@
 [
   {
+    "name": "Mushihimesama",
+    "collection": false,
+    "additional_info": false,
+    "releaseDate": "15/06/2021",
+    "image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/E3/2021/Games/M_2_I83iGN8BPSTpu7/mushihimesama-switch/hero",
+    "url": "https://www.nintendo.com/games/detail/mushihimesama-switch/",
+    "categories": "Action",
+    "players": "1-2",
+    "developer": "Cave",
+    "publisher": "Live Wire",
+    "instructions": "OPTIONS > General Screen > Rotate > Right(or Left)Roll > Link Rotation > ON"
+  },
+  {
     "name": "Barrage Fantasia",
     "collection": false,
     "additional_info": false,
