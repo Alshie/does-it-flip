@@ -3,7 +3,7 @@
   {
     "name": "Sophstar",
     "collection": false,
-    "additional_info": "In TATE orientation in 100% zoom you want to offset the screen by 4 pixels to get the whole picture. This bug has been reported upstream.",
+    "additional_info": "It supports both FlipGrip and inverse TATE orientation. In TATE orientation in 100% zoom you want to offset the screen by 4 pixels to get the whole picture. This bug has been reported upstream.",
     "releaseDate": "28/10/2022",
     "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_Sophstar.jpg",
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Sophstar-2286305.html?nsuid=70010000054031",
@@ -11,7 +11,7 @@
     "players": "1",
     "developer": "Banana Bytes",
     "publisher": "Red Art Games",
-    "instructions": "Options > Video Options > Screen Orientation"
+    "instructions": "Options > Video Options > Screen Orientation > Vertical I (TATE)"
   },
   {
     "name": "GROOVE COASTER WAI WAI PARTY!!!!",
