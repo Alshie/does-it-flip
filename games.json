@@ -1,5 +1,18 @@
 [
-  
+ 
+  {
+    "name": "Eschatos",
+    "collection": false,
+    "additional_info": "It supports all four orientations. The game also includes Judgement Silversword and Cardinal Sins.",
+    "releaseDate": "31/01/2022",
+    "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Eschatos.jpg".
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ESCHATOS-2101407.html?nsuid=70010000037348",
+    "categories": "Action, Arcade, Shooter",
+    "players": "1",
+    "developer": "Qute",
+    "publisher": "Qute",
+    "instructions": "Press + to cycles through orientations."
+  },  
   {
     "name": "Sophstar",
     "collection": false,
