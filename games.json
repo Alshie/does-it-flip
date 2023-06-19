@@ -1,17 +1,17 @@
 [
    {
-    "name": "Tetris Effect: Connected",
+    "name": "Annalynn",
     "collection": false,
-    "additional_info": "Affects only Journey and Effect modes; affects only gameplay (not menus). Does not affect when playing in docked mode. (introduced in version 2.0)",
-    "releaseDate": "10/09/2018",
-    "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_TetrisEffectConnected.jpg",
-    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Tetris-Effect-Connected-2018258.html",
-    "categories": "Puzzle, Multiplayer, Music, Arcade",
-    "players": "1-8",
-    "developer": "Monstars, Resonair, Stage Games",
-    "publisher": "Enhance Games",
-    "instructions": "Options ↦ Gameplay ↦ Vertical Mode"
-  },
+    "additional_info": false,
+    "releaseDate": "15/06/2023",
+    "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_Annalynn_image500w.jpg",
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Annalynn-2399270.html",
+    "categories": "Action, Arcade, Platformer, Puzzle",
+    "players": "1",
+    "developer": "Cruise Elroy",
+    "publisher": "Summitsphere",
+    "instructions": "Options > Graphics > Vertical Mode: ON"
+   },
   {
     "name": "Nitro Ball",
     "collection": "Johnny Turbo’s Arcade",
