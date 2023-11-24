@@ -1,4 +1,17 @@
 [
+  {
+    "name": "Eigengrau",
+    "collection": false,
+    "additional_info": "Supports all 4 orientations and separate settings for game and HUD",
+    "releaseDate": "02/11/2023",
+    "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_Eigengrau_image500w.jpg",
+    "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Eigengrau-2463187.html",
+    "categories": "Action, Puzzle, Arcade, Shooter",
+    "players": "1-2",
+    "developer": "Martin Mauersics",
+    "publisher": "Martin Mauersics",
+    "instructions": "Settings > Game > HUD Direction"
+   },
    {
     "name": "Annalynn",
     "collection": false,
