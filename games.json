@@ -1,5 +1,44 @@
 [
   {
+    "name": "Galaxy Shooter",
+    "collection": false,
+    "additional_info": "If joycons are attached to the Switch then controls rotate as well so you can play vertical without FlipGrip. Only inverse vertical orientation, I suggest pushing release button on joycons and slide them upside down into FlipGrip instead sliding in Switch upside down which causes blocked vents and overheating.",
+    "releaseDate": "02/11/2021",
+    "image": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_GalaxyShooter_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Galaxy-Shooter-2067237.html?nsuid=70010000047270",
+    "categories": "Arcade, Shooter",
+    "players": "1",
+    "developer": "Inlogic Software",
+    "publisher": "Fantastico Studio",
+    "instructions": "Rotation icon on right side of main menu."
+   },
+  {
+    "name": "WOLFLAME",
+    "collection": false,
+    "additional_info": false,
+    "releaseDate": "14/05/2020",
+    "image": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Wolflame_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Wolflame-1775944.html?nsuid=70010000028652",
+    "categories": "Arcade, Shooter",
+    "players": "1",
+    "developer": "ASTRO PORT",
+    "publisher": "PixelHeart",
+    "instructions": "Tate mode toggle in main menu."
+   },
+  {
+    "name": "Raiden IV x MIKADO remix",
+    "collection": false,
+    "additional_info": "Supports all 4 orientations.",
+    "releaseDate": "22/10/2021",
+    "image": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/SQ_NSwitch_RaidenIvXMikadoRemix_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Raiden-IV-x-MIKADO-remix-2044504.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1-2",
+    "developer": "MOSS",
+    "publisher": "PQube",
+    "instructions": "Display > Display Type"
+   },
+  {
     "name": "Eigengrau",
     "collection": false,
     "additional_info": "Supports all 4 orientations and separate settings for game and HUD",
