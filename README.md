@@ -29,4 +29,4 @@ Game data should be in the following format - please don't stress about getting 
 
 ## Thanks
 
-Thanks to contributers [silverhook](https://github.com/silverhook), [riccyjay](https://github.com/riccyjay) & [CloudyObsession](https://twitter.com/CloudyObsession)
+Thanks to contributers [silverhook](https://github.com/silverhook), [riccyjay](https://github.com/riccyjay), [CloudyObsession](https://twitter.com/CloudyObsession) & [KRoman47](https://github.com/KRoman47) 
