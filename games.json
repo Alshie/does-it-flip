@@ -1,5 +1,18 @@
 [
   {
+    "name": "Crisis Wing",
+    "collection": false,
+    "additional_info": "90° clockwise and counter clockwise tate modes available.",
+    "releaseDate": "22/09/2021",
+    "image": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_CrisisWing_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Crisis-Wing-2037653.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1-2",
+    "developer": "eastasiasoft, Pieslice Productions",
+    "publisher": "eastasiasoft",
+    "instructions": "Options>Video options>Screen mode."
+   },
+  {
     "name": "Galaxy Shooter",
     "collection": false,
     "additional_info": "If joycons are attached to the Switch then controls rotate as well so you can play vertical without FlipGrip. Only inverse vertical orientation, I suggest pushing release button on joycons and slide them upside down into FlipGrip instead sliding in Switch upside down which causes blocked vents and overheating.",
