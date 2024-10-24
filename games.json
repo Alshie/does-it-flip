@@ -1,5 +1,18 @@
 [
   {
+    "name": "Super XYX",
+    "collection": false,
+    "additional_info": "90° clockwise and counter clockwise tate modes available.",
+    "releaseDate": "23/10/2024",
+    "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/superxyx/1x1_SuperXYX_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Super-XYX-2673782.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1",
+    "developer": "eastasiasoft, Team Grybanser Fox",
+    "publisher": "eastasiasoft",
+    "instructions": "Options ↦ More Options ↦ Screen Rotation: 270"
+  }
+  {
     "name": "Crisis Wing",
     "collection": false,
     "additional_info": "90° clockwise and counter clockwise tate modes available.",
@@ -10,7 +23,7 @@
     "players": "1-2",
     "developer": "eastasiasoft, Pieslice Productions",
     "publisher": "eastasiasoft",
-    "instructions": "Options>Video options>Screen mode."
+    "instructions": "Options > Video options > Screen mode."
    },
   {
     "name": "Galaxy Shooter",
