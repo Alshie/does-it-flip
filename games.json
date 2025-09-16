@@ -1,5 +1,31 @@
 [
   {
+    "name": "RayStorm",
+    "collection": "Ray'z Arcade Chronology",
+    "additional_info": "",
+    "releaseDate": "30/06/2023",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_RayzArcadeChronology_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Ray-z-Arcade-Chronology-2394207.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1",
+	"developer": "M2",
+    "publisher": "ININ Games",
+    "instructions": ""
+  },
+  {
+    "name": "RayForce",
+    "collection": "Ray'z Arcade Chronology",
+    "additional_info": "",
+    "releaseDate": "30/06/2023",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_RayzArcadeChronology_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Ray-z-Arcade-Chronology-2394207.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1",
+	"developer": "M2",
+    "publisher": "ININ Games",
+    "instructions": ""
+  },
+  {
     "name": "DODONPACHI SAIDAIOUJOU",
     "collection": false,
     "additional_info": "",
