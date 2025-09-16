@@ -1,5 +1,18 @@
 [
   {
+    "name": "Castle of Shikigami 2",
+    "collection": false,
+    "additional_info": "",
+    "releaseDate": "12/04/2023",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_CastleOfShikigami2_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Castle-of-Shikigami2-2365061.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1",
+	"developer": "Cosmo Machia",
+    "publisher": "Cosmo Machia",
+    "instructions": ""
+  },
+  {
     "name": "Raiden III x MIKADO MANIAX",
     "collection": false,
     "additional_info": "",
