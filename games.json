@@ -1,5 +1,18 @@
 [
   {
+    "name": "Image Fight",
+    "collection": "Irem Collection Volume 1",
+    "additional_info": "",
+    "releaseDate": "21/11/2023",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_IremCollectionVolume1_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Irem-Collection-Volume-1-2485698.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1",
+	"developer": "United Games Entertainment",
+    "publisher": "ININ Games",
+    "instructions": ""
+  },
+  {
     "name": "HEXAPODA",
     "collection": false,
     "additional_info": "",
