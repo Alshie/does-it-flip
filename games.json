@@ -1,5 +1,18 @@
 [
   {
+    "name": "HEXAPODA",
+    "collection": false,
+    "additional_info": "",
+    "releaseDate": "19/05/2023",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Hexapoda_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/HEXAPODA-2384941.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "1",
+	"developer": "TOMAGameStudio",
+    "publisher": "TOMAGameStudio",
+    "instructions": ""
+  },
+  {
     "name": "I Got Isekai’d into a Shmup",
     "collection": false,
     "additional_info": "",
