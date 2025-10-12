@@ -1286,7 +1286,7 @@
     "instructions": "Main Menu > Help & Options > Settings > Video > Rotate Screen"
   },
   {
-    "name": "Demon&rsquo;s Tilt",
+    "name": "Demon&rsquo;s Tilt: Occult Pinball Action",
     "collection": false,
     "additional_info": "Only supported during gameplay. Supports both FlipGrip and inverted orientation, has option to rotate contols.",
     "releaseDate": "23/12/2019",
@@ -1294,7 +1294,20 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/DEMON-S-TILT-1695920.html",
     "categories": "Action, Simulation, Arcade",
     "players": "1",
-    "developer": false,
+    "developer": "WIZNWAR",
+    "publisher": "FLARB",
+    "instructions": "Options > TATE/Vertical Display"
+  },
+ {
+    "name": "XenoTilt: Hostile Pinball Action",
+    "collection": false,
+    "additional_info": "Supports both FlipGrip and inverted orientation, has option to rotate contols. The main/start menu does not flip though.",
+    "releaseDate": "09/10/2025,
+    "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/xenotilthostilepinballaction/1x1_XenotiltHostilePinballAction_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/XENOTILT-HOSTILE-PINBALL-ACTION-2930829.html",
+    "categories": "Action, Simulation, Arcade, Shooter",
+    "players": "1",
+    "developer": "WIZNWAR",
     "publisher": "FLARB",
     "instructions": "Options > TATE/Vertical Display"
   },
