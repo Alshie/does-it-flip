@@ -157,7 +157,7 @@
   {
     "name": "BATSUGUN Saturn Tribute Boosted",
     "collection": false,
-    "additional_info": "",
+    "additional_info": "Supports both FlipGrip (Left Turn) and inverted (Right Turn) TATE orientation.",
     "releaseDate": "27/07/2023",
     "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_BatsugunSaturnTributeBoosted_image500w.jpg",
     "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/BATSUGUN-Saturn-Tribute-Boosted-2424891.html",
@@ -165,7 +165,7 @@
     "players": "1",
     "developer": "City Connection",
     "publisher": "City Connection",
-    "instructions": ""
+    "instructions": "Launch game > Options (- button) > Screen Settings > Vertical (Left Turn)"
   },
   {
     "name": "Super XYX",
@@ -1563,5 +1563,18 @@
     "developer": false,
     "publisher": "HAMSTER",
     "instructions": ""
-  }
+  },
+  {
+    "name": "Layer Section & Galactic Attack S-Tribute",
+    "collection": false,
+    "additional_info": "Supports both FlipGrip and inverse TATE orientation. You can invert it through general Options (- button) > Screen Settings > Screen Flip: On",
+    "releaseDate": "28/04/2022",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_LayerSectionAndGalacticAttackSTribute_image1600w.jpg",
+	"url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Layer-Section-Galactic-Attack-S-Tribute-2202847.html",
+    "categories": "Arcade, Shooter, Action",
+    "players": "2",
+    "developer": "City Connection",
+    "publisher": "City Connection",
+    "instructions": "Launch game > Options (+ button) > Game mode: Arcade, Screen: Arcade"
+  },
 ]
