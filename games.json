@@ -13,6 +13,19 @@
     "instructions": ""
   },
   {
+    "name": "Image Fight",
+    "collection": "Irem Collection Volume 1",
+    "additional_info": "Works only for arcate versions. Supports FlipGrip (90°) and inverted (270º) orientation.",
+    "releaseDate": "21/11/2023",
+    "image": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_IremCollectionVolume1_image500w.jpg",
+    "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Irem-Collection-Volume-1-2485698.html",
+    "categories": "Shooter, Arcade, Action, Adventure",
+    "players": "1",
+    "developer": "Tozai Games",
+    "publisher": "ININ Games",
+    "instructions": "choose game > Options > Display Orientation: 90"
+  },
+  {
     "name": "Air Duel",
     "collection": "Irem Collection Volume 2",
     "additional_info": "",
