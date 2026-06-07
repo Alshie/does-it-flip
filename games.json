@@ -65,7 +65,7 @@
     "categories": "Arcade, Shooter, Action",
     "players": "1",
     "developer": "Cosmo Machia",
-    "original_developer": "",
+    "original_developer": "Alfa System",
     "publisher": "Cosmo Machia",
     "instructions": ""
   },
@@ -93,7 +93,7 @@
     "categories": "Arcade, Shooter, Action",
     "players": "1",
     "developer": "M2",
-    "original_developer": "",
+    "original_developer": "Taito",
     "publisher": "ININ Games",
     "instructions": ""
   },
@@ -107,7 +107,7 @@
     "categories": "Arcade, Shooter, Action",
     "players": "1",
     "developer": "M2",
-    "original_developer": "",
+    "original_developer": "Taito",
     "publisher": "ININ Games",
     "instructions": ""
   },
@@ -121,7 +121,7 @@
     "categories": "Arcade, Shooter, Action",
     "players": "1",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Cave",
     "publisher": "Live Wire",
     "instructions": ""
   },
@@ -149,7 +149,7 @@
     "categories": "Arcade, Shooter, Action",
     "players": "1",
     "developer": "City Connection",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "City Connection",
     "instructions": "Launch game > Options (- button) > Screen Settings > Vertical (Left Turn)"
   },
@@ -345,7 +345,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "2",
     "developer": "Cave",
-    "original_developer": "",
+    "original_developer": "Cave",
     "publisher": "Live Wire",
     "instructions": "OPTIONS > General Screen > Rotate > Right Roll and Link Rotation > ON"
   },
@@ -359,7 +359,7 @@
     "categories": "Shooter",
     "players": "2",
     "developer": "Cave",
-    "original_developer": "",
+    "original_developer": "Cave",
     "publisher": "Live Wire",
     "instructions": "OPTIONS > General Screen > Rotate > Right Roll and Link Rotation > ON"
   },
@@ -625,7 +625,7 @@
     "categories": "Arcade, Action, Adventure, Shooter",
     "players": "2",
     "developer": "Taito",
-    "original_developer": "",
+    "original_developer": "Taito",
     "publisher": "ININ Games",
     "instructions": "Options menu > Display Settings > Display Direction (can rotate to 90/180/270 degrees)"
   },
@@ -638,8 +638,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Psikyo-Shooting-Stars-Alpha-1701913.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "",
-    "original_developer": "",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
     "publisher": "NIS America",
     "instructions": ""
   },
@@ -652,8 +652,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Psikyo-Shooting-Stars-Bravo-1710270.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "",
-    "original_developer": "",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
     "publisher": "NIS America",
     "instructions": ""
   },
@@ -1030,7 +1030,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Danmaku-Unlimited-3-1348752.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
-    "developer": "",
+    "developer": "Doragon",
     "original_developer": "",
     "publisher": "Doragon",
     "instructions": "Main options > Screen Rotation"
@@ -1044,8 +1044,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Downwell-1503040.html",
     "categories": "Adventure, Shooter, Action, Arcade",
     "players": "1",
-    "developer": "",
-    "original_developer": "",
+    "developer": "Red Phantom Games",
+    "original_developer": "Moppin",
     "publisher": "Devolver Digital",
     "instructions": "+/- > Options > Display > TATE Mode"
   },
@@ -1072,9 +1072,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Dragon-Blaze-for-Nintendo-Switch-1363619.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1086,9 +1086,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/GUNBARICH-for-Nintendo-Switch--1249755.html",
     "categories": "Shooter, Action, Arcade, Puzzle",
     "players": "1",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1100,9 +1100,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/GUNBIRD-for-Nintendo-Switch-1314749.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1114,9 +1114,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/GUNBIRD2-for-Nintendo-Switch-1391522.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1129,7 +1129,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Treasure",
     "publisher": "Nicalis",
     "instructions": "Main Menu > Help & Options > Settings > Video > Rotate Screen. Set Rotate Hud to 'Sync' to ensure controls work as expected. "
   },
@@ -1212,8 +1212,8 @@
     "url": "https://ec.nintendo.com/JP/ja/titles/70010000020461",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "",
-    "original_developer": "",
+    "developer": "M2",
+    "original_developer": "Cave",
     "publisher": "M2",
     "instructions": ""
   },
@@ -1226,8 +1226,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Psyvariar-Delta-1588304.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "",
-    "original_developer": "",
+    "developer": "City Connection",
+    "original_developer": "Success",
     "publisher": "Dispatch Games",
     "instructions": ""
   },
@@ -1240,9 +1240,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Samurai-Aces-for-Nintendo-Switch--1339211.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1254,9 +1254,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/STRIKERS-1945-II-for-Nintendo-Switch-1332696.html",
     "categories": "Shooter",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1268,9 +1268,9 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/STRIKERS1945-for-Nintendo-Switch-1250173.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
-    "publisher": "Zerodiv",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
+    "publisher": "City Connection",
     "instructions": "From the Pause Menu - Display Settings > Display Orientation"
   },
   {
@@ -1283,7 +1283,7 @@
     "categories": "Shooter, Action, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Visco",
     "publisher": "QUByte Game Studio, LLC",
     "instructions": "When starting game choose &lsquo;Vertical Mode Right&rsquo;"
   },
@@ -1296,8 +1296,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/ACA-NEOGEO-STRIKERS-1945-PLUS-1457951.html",
     "categories": "Shooter, Arcade",
     "players": "2",
-    "developer": "Psikyo",
-    "original_developer": "",
+    "developer": "",
+    "original_developer": "Psikyo",
     "publisher": "Hamster",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -1311,7 +1311,7 @@
     "categories": "Shooter, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Video System",
     "publisher": "Hamster",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -1325,7 +1325,7 @@
     "categories": "Shooter, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Video System",
     "publisher": "Hamster",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -1352,7 +1352,7 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Sisters-Royale-Five-Sisters-Under-Fire-1701373.html",
     "categories": "Shooter, Action, Arcade",
     "players": "1",
-    "developer": "",
+    "developer": "Alfa System",
     "original_developer": "",
     "publisher": "Chorus Worldwide Games",
     "instructions": ""
@@ -1367,7 +1367,7 @@
     "categories": "Shooter, Arcade, Action, Adventure",
     "players": "1",
     "developer": "Tozai Games",
-    "original_developer": "",
+    "original_developer": "Irem",
     "publisher": "ININ Games",
     "instructions": "Choose game > Options > Display Orientation: 90"
   },
@@ -1409,7 +1409,7 @@
     "categories": "Arcade, Shooter, Action",
     "players": "2",
     "developer": "City Connection",
-    "original_developer": "",
+    "original_developer": "Taito",
     "publisher": "City Connection",
     "instructions": "Launch game > Options (+ button) > Game mode: Arcade, Screen: Arcade"
   },
@@ -1507,7 +1507,7 @@
     "categories": "Shooter, Arcade",
     "players": "2",
     "developer": "Cave",
-    "original_developer": "",
+    "original_developer": "Cave",
     "publisher": "Live Wire",
     "instructions": "OPTIONS > General Screen > Rotate > Right Roll and Link Rotation > ON"
   },
@@ -1576,8 +1576,8 @@
     "url": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/STRIKERS-1945-III-for-Nintendo-Switch--2248552.html",
     "categories": "Arcade, Shooter",
     "players": "2",
-    "developer": "",
-    "original_developer": "",
+    "developer": "Zerodiv",
+    "original_developer": "Psikyo",
     "publisher": "City Connection",
     "instructions": ""
   },
@@ -2095,7 +2095,7 @@
     "categories": "Shooter, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Ichibutsu",
     "publisher": "Hamster",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -2165,7 +2165,7 @@
     "categories": "Shooter, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Nichimutsu",
     "publisher": "Hamster",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -2179,7 +2179,7 @@
     "categories": "Shooter, Arcade",
     "players": "2",
     "developer": "",
-    "original_developer": "",
+    "original_developer": "Taito",
     "publisher": "Hamster",
     "instructions": "From the Pause Menu - Display Settings > Orientation of the display"
   },
@@ -2207,7 +2207,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "1",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2221,7 +2221,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "2",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2235,7 +2235,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "2",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2249,7 +2249,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "2",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2263,7 +2263,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "1",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2277,7 +2277,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "1",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2291,7 +2291,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "1",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   },
@@ -2305,7 +2305,7 @@
     "categories": "Shooter, Arcade, Action",
     "players": "1",
     "developer": "Bitwave Games",
-    "original_developer": "",
+    "original_developer": "Toaplan",
     "publisher": "Clear River Games",
     "instructions": "launch game > Pause menu (+) > Options > Display > Rotation > 270°"
   }
